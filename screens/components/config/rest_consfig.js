@@ -1,0 +1,7 @@
+export const articles_url = 'http://newsapi.org/v2/top-headlines'
+export const country_code = 'us'
+export const sortBy = 'popularity'
+export const queryNewsFeed = 'race'
+export const queryPetitions = 'ch'
+export const category = 'general'
+export const _api_key = 'd787374bdac0411c9fe6369275f0906f'
